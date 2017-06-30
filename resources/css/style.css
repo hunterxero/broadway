@@ -26,6 +26,11 @@ p {
     font-size: 14px;
 }
 
+a {
+  font-weight: bold;
+  color: white;
+}
+
 #home {
   color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
@@ -37,7 +42,6 @@ p {
   font-size: 23px;
   font-weight: bold;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-
 }
 
 #footer {
